@@ -1,1 +1,1 @@
-# projeto-netflix-clone-dio
+# projeto-netflix
